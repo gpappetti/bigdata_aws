@@ -1,10 +1,10 @@
 
 runners:
  emr:
-  aws_access_key_id: AKIAUVOA3ECXKEG2HSMJ
-  aws_secret_access_key: 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
-  ec2_key_pair: dio-live-key-pred
-  ec2_key_pair_file: ~/.ssh/dio-live-key-pred.pem
+  aws_access_key_id: $$$$$$$$$$$$$$$$$$$$$$
+  aws_secret_access_key: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+  ec2_key_pair: dio$live$key$pred$$
+  ec2_key_pair_file: ~/.ssh/dio-live$ke$pred.pem
   region: us-west-2
   ssh_tunnel: true
   instance_type: m5.xlarge
